@@ -20,7 +20,7 @@ console.log("Welcome Again !");
 •واخيرا حييييياكم واكيد وجودكم هو اللي بيدعمنا وراح نكون الافضل.
 شرفنا يا عسل:wink: :kissing_heart:
 
-https://discord.gg/76d7VRk
+https://discord.gg/j7FGhwA
 joined info-selfie
 ! Selfie.                              
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
@@ -46,7 +46,7 @@ client.on("guildMemberAdd", member => {
 •واخيرا حييييياكم واكيد وجودكم هو اللي بيدعمنا وراح نكون الافضل.
 شرفنا يا عسل:wink: :kissing_heart:
 
-https://discord.gg/76d7VRk
+https://discord.gg/j7FGhwA
 joined info-selfie
 ! Selfie.                              
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
