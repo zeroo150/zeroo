@@ -1,4 +1,12 @@
- client.on('message', message => {
+const Discord = require("discord.js");
+const client = new Discord.Client();
+
+client.on('ready', () => {
+  console.log(`Logged in as ${client.user.tag}!`);
+});
+
+
+client.on('message', message => {
 	    var prefix = "$";
               if(!message.channel.guild) return;
     if(message.content.startsWith(prefix + 'bc')) {
